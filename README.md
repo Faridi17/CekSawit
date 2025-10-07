@@ -27,19 +27,10 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website
-
-👉 **Camp Exploration Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
-
-👉 **Engaging Travel Guide Section**: A compelling travel guide section with informative content and captivating visuals.
-
-👉 **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
-
-👉 **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
-
-👉 **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
-
-and many more, including code architecture and reusability 
+- **Palm Disease Diagnosis**: Diagnoses oil palm plant diseases based on plant status, affected parts, and severity level.  
+- **Comprehensive Diagnosis Results**: Displays disease name, brief explanation, and practical treatment steps.  
+- **Detectable Diseases**: Includes No Disease, Ganoderma, Fruit Rot, Root Rot, Base/Upper Stem Rot, Yellowing Leaves, and Leaf Spots.  
+- **Fast and Practical**: Focused on ease of use, quick diagnosis, and actionable recommendations for plant health management.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -56,8 +47,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/travel_ui_ux.git
-cd travel_ui_ux
+git clone https://github.com/Faridi17/CekSawit.git
+cd CekSawit
 ```
 
 **Installation**
